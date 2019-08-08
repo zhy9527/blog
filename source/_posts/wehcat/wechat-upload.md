@@ -17,7 +17,7 @@ categories: "WeChat"
   4. [`wx.getFileSystemManager().readFile`   生成base64格式图片](https://developers.weixin.qq.com/miniprogram/dev/api/file/wx.getFileSystemManager.html)
 
 效果如下
-![效果](./img/upload.png)
+![效果](https://github.com/zhy9527/zhy9527.github.io/blob/master/source/_posts/wechat/img/upload.png)
 
 ## WXML内容
 ``` html
