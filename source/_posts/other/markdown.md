@@ -1,7 +1,7 @@
 title: markdown 语法整理
 date: 2019-04-12 01:11:33
 tags: markdown
-categories: "markdown"
+categories: "other"
 ---
 ***
 因为写博客，对markdown语法不是很熟悉，每次都要网上搜，很浪费时间，所以就整理记录一下。这也是写博客的初衷，常看看，温故而知新...
