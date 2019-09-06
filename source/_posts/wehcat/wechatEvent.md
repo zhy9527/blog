@@ -5,7 +5,7 @@ tags: WeChat
 comments: true
 categories: "WeChat"
 ---
-
+******************
 ## 微信小程序阻止事件冒泡
 
 * 使用 catch 不用bind

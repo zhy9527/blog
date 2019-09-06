@@ -6,6 +6,10 @@ comments: true
 categories: "js"
 ---
 
+*******
+>True mastery of any skill takes a lifetime. 
+对任何技能的掌握都需要一生的刻苦操练
+
 最近在做一个自定义复选框+全选/全不选功能，项目基于vue，现在整理如下
 
 大致思路
