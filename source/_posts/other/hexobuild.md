@@ -6,8 +6,8 @@ comments: true
 categories: "other"
 ---
 
-### 启动命令
-> $ hexo server
+### 启动
+> $ hexo s
 
-### 生成命令
-> $ hexo g
+### 生成
+> $ hexo d -g

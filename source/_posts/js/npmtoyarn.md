@@ -1,6 +1,6 @@
 ---
 title: 从 npm 迁移到 yarn
-date: 2019-012-14 17:15:37
+date: 2019-12-14 17:15:37
 tags: npm
 comments: true
 categories: "js"
