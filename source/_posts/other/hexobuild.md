@@ -7,7 +7,11 @@ categories: "other"
 ---
 
 ### 启动
-> $ hexo s
+```
+$ hexo s
+```
 
 ### 生成
-> $ hexo d -g
+```
+$ hexo d -g
+```
